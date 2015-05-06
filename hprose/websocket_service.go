@@ -22,7 +22,7 @@ package hprose
 import (
 	"reflect"
 
-	"golang.org/x/net/websocket"
+	"code.google.com/p/go.net/websocket"
 )
 
 type WebSocketContext struct {
